@@ -31,3 +31,7 @@ npm install
 
 # Run the app locally
 npm run dev
+
+
+![image](https://github.com/user-attachments/assets/4d9b1e1f-c0a8-4dfa-b5dd-041d728caffd)
+
