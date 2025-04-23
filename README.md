@@ -2,7 +2,7 @@
 
 Generate strong, random passwords instantly! This password generator lets you customize your password with options like including numbers, letters, and more. Easily copy the generated password with a single click.
 
-🚀 Live Demo: [Password Generator](https://keerthanagtech.github.io/passwordGenerator-React/)
+🚀 Live Demo: https://keerthanagtech.github.io/passwordGenerator-React/
 
 ## ⚙️ Features
 
